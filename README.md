@@ -3,12 +3,12 @@
 ## Example:
 
 ```diff
-# Sunset solar eclipse to brush Columbus Sunday
-- Ben Keith
-- benlkeith
-- 2012-05-18 04:19
-- Blog
-- published
+-# Sunset solar eclipse to brush Columbus Sunday
+-- Ben Keith
+-- benlkeith
+-- 2012-05-18 04:19
+-- Blog
+-- published
 +---
 +title: 'Sunset solar eclipse to brush Columbus Sunday'
 +author: Ben Keith
