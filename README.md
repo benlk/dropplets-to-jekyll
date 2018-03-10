@@ -1,6 +1,27 @@
 # This is experimental.
 
-How to use this:
+## Example:
+
+```diff
+# Sunset solar eclipse to brush Columbus Sunday
+- Ben Keith
+- benlkeith
+- 2012-05-18 04:19
+- Blog
+- published
++---
++title: 'Sunset solar eclipse to brush Columbus Sunday'
++author: Ben Keith
++twitter_handle: benlkeith
++date: 2012-05-18
++time: 04:19
++categories: Blog
++classes: published
++---
+
+```
+
+## How to use this:
 
 1. Copy your [Dropplets](https://github.com/johnroper100/dropplets) post markdown files into your jekyll site's `_posts` directory
 	- If your site's filenames are not named with the extension `.md`, rename them now, or edit `script.sh` to read from a different filename.
