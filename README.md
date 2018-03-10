@@ -65,4 +65,4 @@ This assumes:
 - that you're running Python 2 as `python`
 - that your files are named `.md`
 - that your files are using `\n` for end-of-line; use [`dos2unix`](https://en.wikipedia.org/wiki/Unix2dos) to fix this if not.
-- some things that were true for my files that may not be true for yours; see the contents of `convert.py`. I hacked the "post status" line item to support multiple words, which were then added as class names and separate templates.
+- some things that were true for my files that may not be true for yours; see the contents of `convert.py`. I hacked the "post status" line item to support multiple words, which were then added as class names and separate templates. For more about that, see [the dropplets template I was using](https://github.com/benlk/benlk.com).

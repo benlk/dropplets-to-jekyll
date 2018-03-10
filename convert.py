@@ -57,7 +57,6 @@ def convert_to_frontmatter( filename ):
         time = re.compile( r'\d:\d\d' )
         if re.search( time, lines[3] ):
             day_time = lines[3].split( ' ', 2 )
-            print(day_time)
             lines[3] = u'date: ' + day_time[1] + '\n'
             lines.insert(4, u'time: ' + day_time[2] ) # no newline here because it's already there
 
